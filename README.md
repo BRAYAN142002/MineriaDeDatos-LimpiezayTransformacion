@@ -26,7 +26,7 @@ Este repositorio contiene unos **Notebook en Google Colab** donde se realiza un 
 ## 📌 Pasos realizados en el Notebook  
 
 ### 📥 1. Carga de datos  
-- Se carga el dataset desde su fuente original (**CSV, SQL, API, etc.**).  
+- Se carga el dataset desde su fuente original (**CSV**).  
 - Se revisa la estructura de los datos y se convierten a un formato adecuado.  
 
 ### 🔎 2. Análisis exploratorio inicial (EDA)  
